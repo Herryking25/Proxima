@@ -1,0 +1,85 @@
+{
+  "hash": "6e7fe3ce",
+  "configHash": "35e58098",
+  "lockfileHash": "9ee1df96",
+  "browserHash": "b8f4e9cc",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "71e2597e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a50bb50e",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "98fad637",
+      "needsInterop": false
+    },
+    "react-icons/ai": {
+      "src": "../../node_modules/react-icons/ai/index.mjs",
+      "file": "react-icons_ai.js",
+      "fileHash": "5ad91735",
+      "needsInterop": false
+    },
+    "react-responsive-carousel": {
+      "src": "../../node_modules/react-responsive-carousel/lib/js/index.js",
+      "file": "react-responsive-carousel.js",
+      "fileHash": "c7244c50",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "4b319bc3",
+      "needsInterop": false
+    },
+    "react-icons/ci": {
+      "src": "../../node_modules/react-icons/ci/index.mjs",
+      "file": "react-icons_ci.js",
+      "fileHash": "c6d07c03",
+      "needsInterop": false
+    },
+    "react-icons/fa6": {
+      "src": "../../node_modules/react-icons/fa6/index.mjs",
+      "file": "react-icons_fa6.js",
+      "fileHash": "019ceeac",
+      "needsInterop": false
+    },
+    "react-icons/pi": {
+      "src": "../../node_modules/react-icons/pi/index.mjs",
+      "file": "react-icons_pi.js",
+      "fileHash": "d1e91c33",
+      "needsInterop": false
+    },
+    "react-icons/go": {
+      "src": "../../node_modules/react-icons/go/index.mjs",
+      "file": "react-icons_go.js",
+      "fileHash": "bb25b386",
+      "needsInterop": false
+    },
+    "react-icons/tb": {
+      "src": "../../node_modules/react-icons/tb/index.mjs",
+      "file": "react-icons_tb.js",
+      "fileHash": "647cc3ea",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5UN2WQEG": {
+      "file": "chunk-5UN2WQEG.js"
+    },
+    "chunk-O3LYTSDN": {
+      "file": "chunk-O3LYTSDN.js"
+    },
+    "chunk-AK4TLUUY": {
+      "file": "chunk-AK4TLUUY.js"
+    }
+  }
+}
