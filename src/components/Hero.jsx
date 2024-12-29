@@ -10,9 +10,9 @@ import Button from './Button'
 
 const Hero = () => {
   return (
-    <div className='bg-[#f0E5DD]justify-center items-center m-5'>
-        <div className='flex flex-col m-4 justify-center items-center md:flex-row'>
-            <div className='mx-10'>
+    <div className='bg-[#f0E5DD] justify-center p-16'>
+        <div className='flex flex-col justify-center items-center md:flex-row'>
+            <div className=''>
                 <h1 className=' font-bold text-[32px] text-center w-[400px]  sm:text-[64px] sm:text-left sm:w-[600px]'>
                     We can move you everywhere.
                     <span className='text-[#A9592C]'>
@@ -36,7 +36,7 @@ const Hero = () => {
                 <img src={Delivery} width={600} />
             </div>
         </div>
-        <div className='flex w-[#1400] h-[160px] bg-[#F4F4F4] justify-center items-center gap-16'>
+        <div className='flex w-full h-[160px] justify-center items-center gap-16'>
             <img src={logo1} />
             <img src={logo2} />
             <img src={logo3} />
