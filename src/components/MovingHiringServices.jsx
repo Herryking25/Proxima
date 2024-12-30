@@ -1,5 +1,5 @@
 import React from "react";
-import truckImage from "../assets/images/truck.png";
+import move from "../assets/images/move.png";
 
 const MovingHiringServices = () => {
   return (
@@ -8,7 +8,7 @@ const MovingHiringServices = () => {
       <div
         className="absolute inset-0 bg-cover bg-center opacity-50"
         style={{
-          backgroundImage: `url(${truckImage})`,
+          backgroundImage: `url(${move})`,
         }}
       ></div>
 
