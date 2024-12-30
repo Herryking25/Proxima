@@ -7,11 +7,11 @@ import caricon from '../assets/images/caricon.png'
 
 const Service = () => {
   return (
-    <div className=' m-10'>
+    <div className='m-10'>
       <div className='flex justify-center items-center'>
         <h2 className='font-bold text-[32px]'>Our Services</h2>
       </div>
-      <div className='flex justify-center items-center gap-8'>
+      <div className='flex flex-col justify-center items-center gap-8 sm:flex-row'>
 
       <div className='w-[307px] max-h-min flex flex-col border items-center mt-4 p-5'>
         <div>
